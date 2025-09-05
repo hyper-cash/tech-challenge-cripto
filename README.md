@@ -1,6 +1,5 @@
 # Desafio Técnico: O Cofre do Sistema Financeiro
 
-## Introdução
 
 Olá! Bem-vindo ao desafio técnico.
 
